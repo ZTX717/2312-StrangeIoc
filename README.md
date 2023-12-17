@@ -1,2 +1,4 @@
-# 2312StrangeIoc-
-使用StrangeIoc的案例
+# 2312StrangeIoc
+使用StrangeIoc的案例，实现了一个点击物体加分数的功能
+# 另外
+添加了一个状态机，音频管理，编辑器扩展等内容
